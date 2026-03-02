@@ -86,11 +86,11 @@ Torch will be **the first language worldwide** combining:
 
 ## Timeline
 
-- **ANTLR4 grammar**: ✅ Complete
-- **Type inference**: In progress
-- **MLIR frontend**: Q2 2026
-- **Polyhedral optimizer**: Q4 2026
-- **Torch v1.0**: **Spring 2028**
+- **ANTLR4 grammar**: In progress
+- **Type inference**: Q4 2026
+- **MLIR frontend**: Q2 2027
+- **Polyhedral optimizer**: Q2 2028
+- **Torch v1.0**: **Spring 2029**
 
 ***
 
