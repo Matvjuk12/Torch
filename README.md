@@ -97,12 +97,7 @@ Torch will be **the first language worldwide** combining:
 ## Authors
 
 **Zhukovsky M.A.**  
-*7th grade student, robotics engineer, physicist, mathematician, astronomer*  
-**Supervisor**: Kravchenko D.V. (Computer Science Teacher)  
-**Scientific Supervisor**: Kravchenko D.V. (Computer Science Teacher)  
-
-**MBOU Lyceum, Lesosibirsk**
-
+*7th grade student, robotics engineer, physicist, mathematician*  
 ***
 
 **⭐ Star this repo if you want Python-speed development with C++-speed execution!**  
