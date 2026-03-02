@@ -5,7 +5,7 @@
 **Slogan:** *Python development speed. C++ execution speed. Zero annotations.*
 
   
-*Licensed under MIT or Apache 2.0 (dual license). See LICENSE files.*
+*Licensed under MIT. See LICENSE files.*
 
 ***
 
