@@ -105,4 +105,4 @@ Torch will be **the first language worldwide** combining:
 
 ***
 
-*Licensed under [MIT](LICENSE-MIT.txt) or [Apache 2.0](LICENSE-APACHE.txt) at your option.*
+*Licensed under [MIT](LICENSE-MIT.txt).*
